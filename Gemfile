@@ -7,6 +7,9 @@ gem 'rake'
 gem 'rack-flash3'
 gem 'carrierwave'
 
+
+# Hre is my helpful comment
+
 group :development do
 	gem 'sqlite3'
 	gem 'shotgun'
